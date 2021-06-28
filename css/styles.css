@@ -127,7 +127,7 @@ p
 	max-width: 10%;
 	position: absolute;
 	top: 1.5625rem;
-	right: 31.25rem;
+	right: 22.25rem;
 }
 
 .cloud-2
@@ -135,7 +135,7 @@ p
 	max-width: 10%;
 	position: absolute;
 	top: 15.625rem;
-	left: 31.25rem;
+	left: 24.25rem;
 }
 
 .code
@@ -187,6 +187,7 @@ p
 .get-in-touch-h2
 {
 	font-size: 2rem;
+	margin-bottom: 1.5rem;
 }
 
 .hello
@@ -227,4 +228,5 @@ p
 .skills-text
 {
 	font-size: 3.125rem;
+	margin-bottom: 2rem;
 }
