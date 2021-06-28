@@ -19,11 +19,13 @@ body
 h1
 {
 	margin: auto;
+	width: 70%;
 	font-family: 'Sacramento', cursive;
 }
 
 h2
 {
+	width: 70%;
 	margin: auto;
 	color: #66BFBF;
 	font-family: 'Montserrat', sans-serif;
@@ -31,6 +33,7 @@ h2
 
 h3
 {
+	width: 70%;
 	margin: auto;
 	color: #11999E;
 	font-family: 'Montserrat', sans-serif;
@@ -49,6 +52,7 @@ hr
 
 p
 {
+	width: 70%;
 	color: #40514E;
 	margin: auto;
 }
