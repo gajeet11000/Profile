@@ -1,0 +1,226 @@
+/******************************************TAG SELECTION**************************************/
+a
+{
+	color: #11999E;
+	text-decoration: none;
+}
+a:hover
+{
+	color: purple;
+}
+
+body
+{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+h1
+{
+	margin: auto;
+	font-family: 'Sacramento', cursive;
+}
+
+h2
+{
+	margin: auto;
+	color: #66BFBF;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3
+{
+	margin: auto;
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+}
+
+hr
+{
+	border-color: lightgrey;
+	border-style: none;
+	border-top-style: dotted;
+	border-radius: 0%;
+	border-width: 7.5px;
+	width: 15%;
+	margin: 5.625rem auto;
+}
+
+p
+{
+	color: #40514E;
+	margin: auto;
+}
+
+/******************************************CLASS SELECTION************************************/
+
+.ajeet
+{
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #66BFBF;
+	font-size: 5.625rem;
+	font-weight: bold;
+}
+
+.ajeet-pic
+{
+	max-width: 25%;
+}
+
+.about
+{
+	width: 70%;
+	margin: auto;
+}
+
+.button {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   height: 5px;
+   line-height: 5px;
+   color: #FFFFFF;
+   font-family: Times New Roman;
+   width: 150px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 14px;
+   -webkit-box-shadow: 0 1px 10px 0 #000000;
+   -moz-box-shadow: 0 1px 10px 0 #000000;
+   box-shadow: 0 1px 10px 0 #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 3.75rem auto;
+}
+
+.button:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.cloud-1
+{
+	max-width: 10%;
+	position: absolute;
+	top: 1.5625rem;
+	right: 31.25rem;
+}
+
+.cloud-2
+{
+	max-width: 10%;
+	position: absolute;
+	top: 15.625rem;
+	left: 31.25rem;
+}
+
+.code
+{
+	width: 25%;
+	float: left;
+	margin-right: 10px;
+}
+
+.cube
+{
+	width: 25%;
+	float: left;
+	margin-right: 10px;
+}
+
+.connections
+{
+	background-color: #66BFBF;
+	padding: 30px;
+}
+
+.copyright
+{
+	color: #EAF6F6;
+	font-size: 1rem;
+}
+
+.connection-link
+{
+	margin: 0 20px;
+}
+
+.connection-link:hover
+{
+	color:  white;
+}
+
+.first-div
+{
+	background-color: #EAF6F6;
+	padding-top: 75px;
+}
+
+.farewell
+{
+}
+
+.get-in-touch-h2
+{
+	font-size: 2rem;
+}
+
+.hello
+{
+	font-size: 2rem;
+}
+
+.hobbies
+{
+	text-align: left;
+}
+
+.mountain
+{
+	max-width: 100%;
+}
+
+
+.pro
+{
+	text-decoration: underline;
+}
+
+.second-div
+{
+	padding-top: 75px;
+	max-width: 50%;
+	margin: 0 auto;
+	line-height: 2;
+}
+
+.skills
+{
+	text-align: left;
+	margin-bottom: 5.625rem;
+}
+
+.skills-text
+{
+	font-size: 3.125rem;
+}
